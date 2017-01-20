@@ -1,0 +1,23 @@
+baseurl = "https://www.pspackman.com/"
+title = "Peter R. Spackman"
+author = "Peter R. Spackman"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "PS"
+
+[[menu.main]]
+    name = "About"
+    url  = "about"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/peterspackman"
+[[menu.main]]
+    name = "Resume"
+    url  = "resume"
+
