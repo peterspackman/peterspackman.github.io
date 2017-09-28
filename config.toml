@@ -1,5 +1,5 @@
-baseurl = "https://www.pspackman.com/"
-title = "Peter R. Spackman"
+baseurl = "https://peterspackman.science/"
+title = "Peter R. Spackman -- Homepage"
 author = "Peter R. Spackman"
 canonifyurls = true
 languagecode = "en"
@@ -7,9 +7,10 @@ theme = "black-and-light"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
+publishDir = "docs"
 
 [params]
-  sitename = "PS"
+  sitename = "PRS"
 
 [[menu.main]]
     name = "About"
