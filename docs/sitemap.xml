@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://peterspackman.science/post/publications/</loc>
+    <loc>http://peterspackman.science/publications/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,12 +19,6 @@
   
   <url>
     <loc>http://peterspackman.science/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterspackman.science/post/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
