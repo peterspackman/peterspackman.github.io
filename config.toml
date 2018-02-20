@@ -4,6 +4,7 @@ author = "Peter R. Spackman"
 canonifyurls = true
 languagecode = "en"
 theme = "hemingway2"
+copyright = "&copy; <a href=\"https://github.com/peterspackman\">Peter Spackman</a> 2018"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
@@ -30,6 +31,10 @@ fa_icon = "fa-gitlab"
 [[params.social]]
 url = "https://twitter.com/prspackman"
 fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://scholar.google.com.au/citations?user=GmSR9oIAAAAJ&hl=en"
+fa_icon = "fa-graduation-cap"
 
 [[params.social]]
 url = "/index.xml"

@@ -3,6 +3,8 @@ title = "Publications"
 date = "2018-02-20"
 +++
 
+Selected publications I've either written or been a primary contributor toward.
+
  Year | Journal | Title 
 ------|:-------:|------:
 2018 | *JCTC* | [Accurate Lattice Energies for Molecular Crystals from Experimental Crystal Structures](http://dx.doi.org/10.1021/acs.jctc.7b01200)
