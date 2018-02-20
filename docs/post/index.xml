@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Peter R. Spackman</title>
+    <link>http://peterspackman.science/post/</link>
+    <description>Recent content in Posts on Peter R. Spackman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://peterspackman.science/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>http://peterspackman.science/post/publications/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterspackman.science/post/publications/</guid>
+      <description> Publications  Estimating the CCSD basis-set limit energy from small basis sets: basis-set extrapolations vs additivity schemes, AIP Advances 2015 High throughput profiling of molecular shapes in crystals Scientific Reports 2016 Basis set convergence of CCSD(T) equilibrium geometries using a large and diverse set of molecular structures J. Chem. Phys. 2016  </description>
+    </item>
+    
+  </channel>
+</rss>
