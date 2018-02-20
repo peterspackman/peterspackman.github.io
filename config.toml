@@ -1,24 +1,35 @@
 baseurl = "http://peterspackman.science/"
-title = "Peter R. Spackman -- Homepage"
+title = "Peter R. Spackman"
 author = "Peter R. Spackman"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "hemingway2"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 publishDir = "docs"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [params]
-  sitename = "PRS"
 
-[[menu.main]]
-    name = "About"
-    url  = "about"
-[[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/peterspackman"
-[[menu.main]]
-    name = "Resume"
-    url  = "resume"
+[params.highlight]
+style = "github"
+languages = ["python", "javascript", "fortran", "c"]
 
+[[params.social]]
+url = "https://github.com/peterspackman"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://gitlab.com/Spackman"
+fa_icon = "fa-gitlab"
+
+[[params.social]]
+url = "https://twitter.com/prspackman"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"

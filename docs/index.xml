@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter R. Spackman -- Homepage</title>
+    <title>Peter R. Spackman</title>
     <link>http://peterspackman.science/</link>
-    <description>Recent content on Peter R. Spackman -- Homepage</description>
+    <description>Recent content on Peter R. Spackman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://peterspackman.science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>http://peterspackman.science/post/publications/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterspackman.science/post/publications/</guid>
+      <description> Publications  Estimating the CCSD basis-set limit energy from small basis sets: basis-set extrapolations vs additivity schemes, AIP Advances 2015 High throughput profiling of molecular shapes in crystals Scientific Reports 2016 Basis set convergence of CCSD(T) equilibrium geometries using a large and diverse set of molecular structures J. Chem. Phys. 2016  </description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -22,15 +31,6 @@ Focusing on a mixture of cheminformatics, theoretical chemistry and crystal engi
 I&amp;rsquo;m involved in a few interesting software projects, some of which are:
  SBF Tonto Crystal Explorer  Learn more and contribute to the open source stuff on GitHub.
 Thanks for reading!</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://peterspackman.science/resume/</link>
-      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterspackman.science/resume/</guid>
-      <description>Education  UWA Bachelors degree in Arts (English Literature, Philosophy double major) 2008-2012 UWA Bachelors degree in Science (Computer Science major) 2008-2012 UWA Honours in Philosophy 2012-2013 UWA PhD candidate in the School of Molecular Sciences 2014-  Publications  Estimating the CCSD basis-set limit energy from small basis sets: basis-set extrapolations vs additivity schemes, AIP Advances 2015 High throughput profiling of molecular shapes in crystals Scientific Reports 2016 Basis set convergence of CCSD(T) equilibrium geometries using a large and diverse set of molecular structures J.</description>
     </item>
     
   </channel>
