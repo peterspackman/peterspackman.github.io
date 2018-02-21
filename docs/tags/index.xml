@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/peterspackman&#34;&gt;Peter Spackman&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://peterspackman.science/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://peterspackman.science/tags/about/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterspackman.science/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://peterspackman.science/tags/publications/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterspackman.science/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://peterspackman.science/tags/software/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterspackman.science/tags/software/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

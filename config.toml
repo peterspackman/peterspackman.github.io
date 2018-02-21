@@ -4,6 +4,7 @@ author = "Peter R. Spackman"
 languagecode = "en"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/peterspackman\">Peter Spackman</a> 2018"
+publishDir = "docs"
 
 [taxonomies]
 tag = "tags"

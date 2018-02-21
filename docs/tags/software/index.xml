@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter R. Spackman</title>
-    <link>http://peterspackman.science/</link>
-    <description>Recent content on Peter R. Spackman</description>
+    <title>Software on Peter R. Spackman</title>
+    <link>http://peterspackman.science/tags/software/</link>
+    <description>Recent content in Software on Peter R. Spackman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/peterspackman&#34;&gt;Peter Spackman&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://peterspackman.science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://peterspackman.science/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
